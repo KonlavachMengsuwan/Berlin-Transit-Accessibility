@@ -1,3 +1,3 @@
 # Berlin-Transit-Accessibility
 
-![Berlin_Transit_Accessibility_Map_Compressed](https://github.com/user-attachments/assets/4ea7c9ae-9df5-4760-8602-52609a898548)
+![Berlin Transit Accessibility Map-Comppressed](https://github.com/user-attachments/assets/8167f095-cded-4876-ad81-a61aff7ddcb0)
